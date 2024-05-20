@@ -1,6 +1,16 @@
+######################ERDv0.1#######################
 #brilliantadam
 #20/5/2024
-#Simple ERD tool to detect and respond to suspisious processes on a Windows System
+####################################################
+#Simple ERD tool (for testing) to detect and respond 
+#to suspisious processes on a Windows System.#######
+####################################################
+#Features:-
+##########
+#1)Suspicious process detection
+#2)High CPU usage detection
+#3)Event logging
+####################################################
 import psutil
 import time
 
