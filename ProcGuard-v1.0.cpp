@@ -1,7 +1,7 @@
 //brilliantadam
 //21/5/2024
 //####################################
-//#########ProcGuardv1:0 //###########
+//#########ProcGuardv1.0 //###########
 //####################################
 //Guards against suspicious processes,
 //Auto upload hashes to "VirusTotal"
