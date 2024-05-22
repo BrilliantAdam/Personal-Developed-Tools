@@ -1,6 +1,6 @@
 //brilliantadam
 //19/5/2024
-//Attempt to bruteforce protected winrar file
+//Attempt to bruteforce protected winrar files
 #include <iostream>
 #include <string>
 #include <rar.hpp>
