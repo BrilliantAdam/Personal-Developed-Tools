@@ -1,3 +1,6 @@
+#brilliantadam
+#26/5/2024
+#Firewall Simulation for testing purposes
 import socket
 import threading
 
