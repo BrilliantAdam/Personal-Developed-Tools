@@ -1,6 +1,9 @@
 #brilliantadam
 #26/5/2024
 #Firewall Simulation for testing purposes
+####################################################
+#This is only for testing some features in Firewalls
+####################################################
 import socket
 import threading
 
