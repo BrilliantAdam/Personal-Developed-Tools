@@ -1,6 +1,10 @@
 #brilliantadam
 #28/5/2024
 #This is an attempt to download Youtube Playlists in the best available quality
+################
+#UPDATE:7/6/2024
+#The tool is no longer working properly
+################
 import os
 import youtube_dl
 
